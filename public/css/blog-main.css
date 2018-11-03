@@ -1,0 +1,12 @@
+.blog-main {
+	padding: 50px 100px;
+}
+
+.blog-sidebar {
+	top: 50px;
+	position: relative;
+}
+
+ul {
+    list-style: none;
+}
